@@ -53,10 +53,9 @@ A beautifully designed, feature-rich Notes Management Application built with **F
 
 ## 📱 Screenshots
 
-*(Note: Replace these placeholders with actual screenshots of your app once ready)*
-| Home Screen | Add Note | Edit Note |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/200x400.png?text=Home+Screen" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=Add+Note" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=Edit+Note" width="200" /> |
+| Home | Add Note | Edit/Delete Note | Save Note |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/Home.png" width="200" /> | <img src="screenshots/Add_note.png" width="200" /> | <img src="screenshots/Edit_Delete_Note.png" width="200" /> | <img src="screenshots/Save_note.png" width="200" /> |
 
 ## 🤝 Contributing
 
