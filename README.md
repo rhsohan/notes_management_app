@@ -4,6 +4,12 @@ A beautifully designed, feature-rich Notes Management Application built with **F
 
 ---
 
+## 📱 Screenshots
+
+| Home | Add Note | Edit/Delete Note | Save Note |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/Home.png" width="200" /> | <img src="screenshots/Add_note.png" width="200" /> | <img src="screenshots/Edit_Delete_Note.png" width="200" /> | <img src="screenshots/Save_note.png" width="200" /> |
+
 ## ✨ Features
 
 - **Create, Read, Update, and Delete (CRUD)**: Easily manage your notes.
@@ -50,12 +56,6 @@ A beautifully designed, feature-rich Notes Management Application built with **F
    ```bash
    flutter run
    ```
-
-## 📱 Screenshots
-
-| Home | Add Note | Edit/Delete Note | Save Note |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/Home.png" width="200" /> | <img src="screenshots/Add_note.png" width="200" /> | <img src="screenshots/Edit_Delete_Note.png" width="200" /> | <img src="screenshots/Save_note.png" width="200" /> |
 
 ## 🤝 Contributing
 

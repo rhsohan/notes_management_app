@@ -83,7 +83,7 @@ class NotesListScreen extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
                 gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
                   maxCrossAxisExtent: 400,
-                  mainAxisExtent: 160, // Fixed height for cards
+                  mainAxisExtent: 180, // Increased fixed height for cards to prevent overflow
                   crossAxisSpacing: 16,
                   mainAxisSpacing: 0,
                 ),
@@ -236,6 +236,8 @@ class _AnimatedNoteCardState extends State<_AnimatedNoteCard> {
                           children: [
                             Text(
                               widget.note.title,
+                              maxLines: 2,
+                              overflow: TextOverflow.ellipsis,
                               style: const TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.w800,
